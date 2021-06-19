@@ -36,7 +36,7 @@ const App = <h1>Hello World!</h1>;
 render(App, document.body);
 ```
 
-Congratulations, you've build your first Preact app!
+Congratulations, you've built your first Preact app!
 
 ## Interactive Hello World
 
